@@ -22,6 +22,6 @@ You can use the [Google Books API](https://developers.google.com/books/docs/over
 
 ## Example projects
 
-[My (Grobim) example](https://fir-exercices.web.app/book-finder)
-[Book Finder](https://book-finder-by-deyl.netlify.com/)
-[Search Books](https://booksure.netlify.app/)
+- [My (Grobim) example](https://fir-exercices.web.app/book-finder)
+- [Book Finder](https://book-finder-by-deyl.netlify.com/)
+- [Search Books](https://booksure.netlify.app/)
